@@ -6,3 +6,4 @@
  * and open the template in the editor.
  */
 
+$x = $_GET['number'];
